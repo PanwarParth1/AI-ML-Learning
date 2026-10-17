@@ -1,95 +1,75 @@
-# Hi, I'm PanwarParth1 👋
+# AI-ML-Learning 🚀
 
-> Building readable, reliable, and scalable software — one commit at a time.
+Welcome to my **AI & Machine Learning learning journey!**
 
-![Profile header image](https://github.com/PanwarParth1.png)
+This repository contains my daily coding practice, experiments, notebooks, and projects as I build a strong foundation in Python, Data Science, Machine Learning, and Deep Learning.
 
----
+My goal is to develop strong programming and problem-solving skills while learning how real-world AI/ML systems work.
 
-## 🚀 About Me
-I'm a software developer who loves turning ideas into production-ready code. I focus on clean design, thoughtful APIs, and developer experience. I contribute to open-source, enjoy mentoring, and continuously learn new tools and patterns.
+## 🎯 Goals
 
-- 🔭 Currently working on: **[Project name or short description]**
-- 🌱 Currently learning: **[Tech or topic you’re studying right now]**
-- 👯 Open to collaborating on: APIs, developer tools, web backends, and open-source libraries
-- 💬 Ask me about: system design, debugging, CI/CD, and testing
-- 📫 How to reach me: [email@example.com] or see the Contact section below
-- ⚡ Fun fact: I [short fun fact — e.g., "love competitive programming" or "brew my own coffee"].
+- Strengthen Python programming fundamentals.
+- Learn data analysis and visualization.
+- Practice Data Structures and Algorithms.
+- Understand Machine Learning algorithms and model evaluation.
+- Build practical, real-world AI/ML projects.
+- Explore Deep Learning, GPU programming, and CUDA as I progress.
 
----
+## 📚 Topics I'm Learning
 
-## 🛠️ Core Skills
-- Languages: JavaScript/TypeScript, Python, Java (adjust to your top languages)
-- Frameworks & Libraries: React, Next.js, Express, Flask (adjust to your stack)
-- Infrastructure & Tools: Docker, Kubernetes, GitHub Actions, Terraform
-- Testing & Quality: Jest, Pytest, ESLint, CI pipelines
+- **Python:** Programming fundamentals and problem-solving
+- **NumPy:** Numerical computing and array operations
+- **Pandas:** Data manipulation and analysis
+- **Matplotlib & Seaborn:** Data visualization
+- **Scikit-learn:** Machine Learning algorithms and model evaluation
+- **Machine Learning:** Regression, classification, and other learning techniques
+- **Deep Learning:** Neural networks and related concepts
+- **GPU & CUDA:** Future learning goals
 
----
+## 📂 Repository Structure
 
-## ⭐ Featured Projects
-> A few highlights — expand with descriptions and links to repos.
+```text
+AI-ML-Learning/
+│
+├── Python/
+├── NumPy/
+├── Pandas/
+├── Machine-Learning/
+├── Deep-Learning/
+├── Projects/
+└── README.md
+```
 
-- [project-one](https://github.com/PanwarParth1/project-one) — Short 1–2 line description of what it does and why it matters.
-- [project-two](https://github.com/PanwarParth1/project-two) — Short 1–2 line description and technologies used.
-- [project-three](https://github.com/PanwarParth1/project-three) — Short description, focus area (performance, DX, automation).
+*The repository structure will evolve as I learn new concepts and build more projects.*
 
-Tip: Pin the repos above on your GitHub profile for quick access.
+## 🛠️ Tools & Technologies
 
----
+- Python
+- Google Colab
+- Jupyter Notebooks
+- Git & GitHub
+- NumPy, Pandas, Matplotlib
+- Scikit-learn
 
-## 📈 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PanwarParth1&layout=compact&theme=tokyonight)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PanwarParth1&show_icons=true&theme=tokyonight)
+## 📈 Learning Approach
 
----
+I believe in learning by doing. I use this repository to:
 
-## 🧭 How I Work
-- I write small, testable units and iterate quickly.
-- I prefer simple, documented APIs and pragmatic architecture.
-- I value code reviews, clear commit messages, and reproducible builds.
+- Practice concepts through code.
+- Maintain a record of my progress.
+- Experiment with datasets and algorithms.
+- Improve my debugging and problem-solving skills.
+- Build projects that apply theoretical knowledge.
 
----
+## 🌱 Current Focus
 
-## 🤝 Open Source & Contributions
-- I maintain a few libraries focused on [area or language].
-- I enjoy reviewing PRs and helping newcomers get their first contribution.
+Currently focusing on Python, data analysis with Pandas, and developing practical Machine Learning skills.
 
----
+## 📅 Progress Tracking
 
-## ✍️ Writing & Talks
-- Blog: [your-blog.example.com] — short notes, post about architecture decisions and post-mortems.
-- Talks: "Title of a talk" — event, year (link if available).
-
----
-
-## 📫 Contact & Socials
-- Website: https://your-website.example
-- Email: you@example.com
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- Mastodon: @your@instance (if applicable)
-
----
-
-## 🎯 What I’m Looking For
-- Contract / Full-time opportunities (remote or hybrid) — mention availability and timezone.
-- Mentorship & collaboration on open-source projects.
+I will regularly update this repository with new notebooks, exercises, experiments, and projects as I progress.
 
 ---
 
-## 🔭 Currently Learning
-- Short bullets: e.g., "Distributed tracing, Rust, advanced Kubernetes operators."
+**Learning consistently. Building practically. Improving every day.** 💻
 
----
-
-## 🎮 Fun & Personal
-- Music: [favorite artist or playlist]
-- Hobbies: photography, cycling, cooking, or whatever you enjoy
-
----
-
-If you'd like, I can:
-- personalize this README with your real name, bio, and project links,
-- add/remove sections (e.g., "Publications", "Teaching", or "Patents"),
-- generate badge URLs and copy-ready badges,
-- produce a version optimized for a specific role (e.g., Backend Engineer, ML Engineer).
